@@ -8,7 +8,7 @@
 ## How To:
 ### <a href="https://github.com/hacs/integration">HACS</a>
 * Open HACS->Integrations->3 Dots->Custom repositories
-* Add this repository url: https://github.com/thebradleysanders/Monoprice-6-Zone-Home-Controller
+* Add this repository url: https://github.com/ha-bnst/Monoprice-6-Zone-Home-Controller
 * Click on the newly added Monoprice 6-Zone Home Audio Controller
 * Click Download this repository with HACS
 * Restart Home Assistant

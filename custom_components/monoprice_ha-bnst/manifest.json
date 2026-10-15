@@ -1,5 +1,5 @@
 {
-  "domain": "monoprice_ha-bnst",
+  "domain": "monoprice",
   "name": "Monoprice 6-Zone Amplifier HA-BNST",
   "codeowners": ["@ha-bnst"],
   "config_flow": true,
